@@ -74,7 +74,7 @@ header h1 {
 
 /** start Hero area css **/
 .hero-area {
-    background-image: url(img/hero-bg.png);
+    background-image: url(img/hero-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 26px 0 45px 0;
